@@ -1,0 +1,2 @@
+# Pycharm4SettingsForMac
+Pycharm4SettingsForMac
