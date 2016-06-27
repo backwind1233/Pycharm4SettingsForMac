@@ -5,6 +5,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
