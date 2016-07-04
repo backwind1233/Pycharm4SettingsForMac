@@ -2,6 +2,26 @@
   <component name="CodeStyleSchemes">
     <option name="CURRENT_SCHEME_NAME" value="Default" />
   </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6" value="false" />
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6" value="false" />
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_ATTEST">
+      <map>
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.6/bin/python2.6" value="false" />
+        <entry key="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
