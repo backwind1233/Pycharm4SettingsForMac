@@ -2,10 +2,9 @@
   <component name="PyPackageService">
     <option name="additionalRepositories">
       <list>
-        <option value="http://pypi.python.com/" />
+        <option value="http://pypi.douban.com/" />
       </list>
     </option>
-    <option name="PYPI_REMOVED" value="true" />
-    <option name="LAST_TIME_CHECKED" value="1467810381766" />
+    <option name="LAST_TIME_CHECKED" value="1467812176059" />
   </component>
 </application>
