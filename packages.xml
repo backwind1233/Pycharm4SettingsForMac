@@ -58384,7 +58384,7 @@
         <entry key="pstore" value="" />
         <entry key="psu" value="" />
         <entry key="psu364x" value="" />
-        <entry key="psutil" value="" />
+        <entry key="psutil" value="4.3.0" />
         <entry key="pswdclient" value="" />
         <entry key="pswingw2" value="" />
         <entry key="pswinpy" value="" />
